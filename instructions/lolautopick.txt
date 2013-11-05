@@ -1,0 +1,10 @@
+Version: 1.02 (Last Updated: 17.10.2013)
+
+Pick hero you want to be automatically selected for you once you join a game.
+Make sure you own that hero or it resides here <a href="http://euw.leagueoflegends.com/news/champion-rotation" target="_blank" style="color:#00CAF2">Champion - Rotation</a>
+Click 'OK'
+A popup message box will appear to verify which hero you picked.
+Look for game, join game, as you normally would.
+Once at hero selection phase the program will type the hero name you selected and pick it.
+It will continue to try to pick it until it finds a gray color where the hero icon is suppose to be.
+If at anytime you want to close the program simply press F8.

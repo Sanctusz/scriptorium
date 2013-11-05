@@ -1,0 +1,7 @@
+Script is made for 1920x1080 Resolution in mind (Windowed FullScreen).
+
+Alt + v while hover over an item to identify the item.
+Alt + b to make a new portal (Can't be inside Inventory already).
+
+For now it only works if you have your wisdom and portal scrolls in these slots of your inventory.
+<a href="http://i.imgur.com/8HDA4bq.jpg"><img src="http://i.imgur.com/8HDA4bq.jpg" style="width:50%;"></a>

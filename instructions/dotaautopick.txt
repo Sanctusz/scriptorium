@@ -1,0 +1,10 @@
+Version: 1.02 (Last Updated: 28.3.2013)
+
+For now this code only works if you are playing Dota 2 in 1920x1080 Resolution and Borderless Window Mode.
+Pick hero you want to be automatically selected for you once you join a game.
+Click 'OK'
+Popup Messagebox will appear to verify which hero you picked.
+Look for game, join game, as you normally would.
+Once at hero selection phase the program will type the hero name you selected and pick it.
+It will continue to try to pick it until you finally can click play and the game begins. (2 second delay each try).
+If at anytime you want to close the program simply press F8.

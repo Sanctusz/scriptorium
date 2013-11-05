@@ -1,0 +1,8 @@
+Script is made for 1920x1080 Resolution in mind (Windowed FullScreen).
+Recommend being Scrolled out completely and have all the points u want visible.
+This was made for pre-desired path in races.
+
+Shift + x (inside Skill Tree) to save location of skillpoint.
+Shift + q to level up skills saved.
+F7 ingame then open new Notepad to export saved locations for ready made script.
+F8 to crash the program.

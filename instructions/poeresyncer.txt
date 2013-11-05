@@ -1,0 +1,8 @@
+Very useful for staying alive in Path of Exile.
+
+Press Ctrl + z to Activate the script and choose an interval between ReSyncs.
+Press Numapd 7 to turn the script ON (It will start doing /oos immediately.
+Press Numpad 8 to turn the script OFF.
+It keeps doing /oos even when in main menu so remember to turn it off while not playing.
+Press F7 to Pause the Script.
+Press F8 to Exit the Application(Script).

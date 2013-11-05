@@ -1,0 +1,21 @@
+Everything Extremely Useful for POE in One Place!
+Script is made for 1920x1080 Resolution in mind (Windowed FullScreen)
+
+F1 to exit game instantly whenever you want
+F4 to start the chicken script (Have to start it while you have full HP in-game)
+F7 to pause/un-pause the script
+F8 to crash program
+Ctrl + x to type /oos in chat (sync game)
+Shift + c when hover over an item in your Inventory to check its Item Level
+Alt + v while hover over an item to identify the item
+Alt + b to make a new portal (Can't be inside Inventory already)
+YOU CANNOT USE BOTH THE CHICKEN SCRIPT AND THE RESYNC SCRIPT
+Press Ctrl + z to Activate the ReSync script and choose an interval between ReSyncs.
+Press Numapd 7 to turn the ReSync script ON (It will start doing /oos immediately.
+Press Numpad 8 to turn the ReSync script OFF.
+It keeps doing /oos even when in main menu so remember to turn it off while not playing.
+Press F7 to Pause the Script.
+Press F8 to Exit the Application(Script).
+
+For now it only works if you have your wisdom and portal scrolls in these slots of your inventory.
+<a href="http://i.imgur.com/8HDA4bq.jpg"><img src="http://i.imgur.com/8HDA4bq.jpg" style="width:50%;"></a>

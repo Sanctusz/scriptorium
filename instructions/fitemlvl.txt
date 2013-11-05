@@ -1,0 +1,1 @@
+Shift + c while hover over item to get it's item level in chat.

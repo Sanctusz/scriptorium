@@ -1,0 +1,15 @@
+Version: 1.00 (Last Updated: 17.8.2013)
+
+Included in this script are these Cube World scripts:
+Auto Walk
+Auto Craft
+Fast Reconnect
++50 stats (left clicks 50 times)
+-50 stats (right clicks 50 times)
+
+Key to Auto Walk : Numpad Multiply (*)
+Key to Auto Craft : Numpad Divide (/)
+Key to Fast Reconnect : Alt + C
+Key to +50 stats : Numpad Add (+)
+Key to -50 stats : Numpad Subtract (-)
+If at anytime you want to close the program simply press F8.

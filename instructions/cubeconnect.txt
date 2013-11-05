@@ -1,0 +1,7 @@
+Version: 1.00 (Last Updated: 26.7.2013)
+
+Key to Fast Reconnect : Alt + C
+Write the IP Address you want to reconnect/connect to
+Press 'OK'
+Press Alt + C to connect to the IP Address
+If at anytime you want to close the program simply press F8.

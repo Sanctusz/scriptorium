@@ -1,0 +1,8 @@
+Very useful for making scripts for games.
+Remember to be fully inside the game when you use it, else you get desktop X & Y Coordinates.
+
+Position your mouse cursor inside a game/program or just on the desktop.
+Press Alt + x to get a pop-up displaying the Coordinates and Colour of that location.
+You can redo that as many times as you want (do not need to close the window).
+Press Esc to Close all active windows of the application.
+Press F8 to Exit the Application (Closes all the Windows)

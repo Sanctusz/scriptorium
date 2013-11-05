@@ -1,0 +1,3 @@
+Script is made for 1920x1080 Resolution in mind (Windowed FullScreen)
+
+F4 to start the chicken script (Have to start it while you have full HP in-game.)

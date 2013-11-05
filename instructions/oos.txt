@@ -1,0 +1,3 @@
+As of now there is no feedback in chat when you do this
+
+Ctrl + x to write /oos in chat to re-sync the game.

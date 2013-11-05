@@ -1,0 +1,3 @@
+Read the instructions to the script here.
+There will be information on which buttons do what,
+also overall information on what the script does.

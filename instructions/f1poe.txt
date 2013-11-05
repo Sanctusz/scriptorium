@@ -1,0 +1,4 @@
+Script is made for 1920x1080 Resolution in mind (Windowed FullScreen)
+
+F1 to Quit game instantly saving you from death.
+It also uses all your pots (right before logging out) to try to make sure you survive.

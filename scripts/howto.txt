@@ -1,0 +1,7 @@
+1. Copy everything found in here to a text editor (Notepad for example)
+2. Save the file as scriptname.ahk (find some clever name so you know what script it is)
+3. Make sure you have installed AHK from http://www.autohotkey.com/
+4. Right Click the .ahk file you just saved on your computer and Run Script
+5. It is optional to Right Click the .ahk file and compile the script 
+(It will create a .exe file of the script) so It is easier to access later
+6. Follow the instructions above on what the script does and enjoy the game &amp; script ;)
